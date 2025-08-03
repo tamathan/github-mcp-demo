@@ -1,0 +1,13 @@
+{
+  "name": "github-mcp-demo",
+  "version": "1.0.0",
+  "description": "GitHub MCP機能のテスト用デモプロジェクト",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js",
+    "test": "echo \"テスト実行中...\" && node hello.js"
+  },
+  "keywords": ["github", "mcp", "demo", "nodejs"],
+  "author": "tamathan",
+  "license": "MIT"
+}

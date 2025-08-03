@@ -6,3 +6,7 @@ function greet(name) {
 }
 
 console.log(greet("世界"));
+
+// 現在の日時も表示
+const now = new Date();
+console.log(`実行時刻: ${now.toLocaleString('ja-JP')}`);
